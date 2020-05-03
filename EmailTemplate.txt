@@ -1,0 +1,10 @@
+Hi,
+
+Your email automation robot has successfully completed at {0};
+
+Below are the Covid-19 India Stats.
+
+{1}
+
+Regards,
+Abnish Singh
