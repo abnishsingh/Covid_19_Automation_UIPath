@@ -50,7 +50,6 @@
   </TextExpression.ReferencesForImplementation>
   <Sequence sap:VirtualizedContainerService.HintSize="594,3825" sap2010:WorkflowViewState.IdRef="Sequence_3">
     <Sequence.Variables>
-      <Variable x:TypeArguments="x:String" Name="state" />
       <Variable x:TypeArguments="ui:GenericValue" Name="confirmedCasesIND" />
       <Variable x:TypeArguments="ui:GenericValue" Name="activeCasesIND" />
       <Variable x:TypeArguments="ui:GenericValue" Name="recoveredCasesIND" />
@@ -73,7 +72,6 @@
               <Variable x:TypeArguments="scg:ICollection(x:Object)" Name="outputReport" />
               <Variable x:TypeArguments="sd:DataTable" Name="builtDataTable" />
               <Variable x:TypeArguments="sd:DataTable" Name="extractedDataTable" />
-              <Variable x:TypeArguments="x:String" Name="strDataTable" />
             </Sequence.Variables>
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
